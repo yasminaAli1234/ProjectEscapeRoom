@@ -1,6 +1,6 @@
 #  ESP32 Escape Room Game
 
-**Author:** Yasmin Ali  
+**Author:** team 7 
 **Platform:** ESP32  
 **Date:** 2025  
 
